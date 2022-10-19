@@ -11,4 +11,4 @@
 
 **Путешествие по России**
 
-* [ссылка на GitHub Pages](https://yurick78.github.io/russian-travel/index.html)
+* [ссылка на GitHub Pages](https://KarpovYuri.github.io/russian-travel/index.html)
